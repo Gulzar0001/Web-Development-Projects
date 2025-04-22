@@ -1,0 +1,1 @@
+A simple one-page responsive website inspired by Myntra, built using HTML and CSS as part of a web development course. The project focuses on a clean layout and responsive design, with most effort spent on creating a functional and visually appealing navigation bar.
